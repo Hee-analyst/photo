@@ -1,0 +1,8 @@
+
+{
+  "name": "AI Professional Resume Photo Maker",
+  "description": "Upload your casual photo and transform it into a professional studio-style resume headshot using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
